@@ -54,10 +54,8 @@ https://github.com/benhur1920/Projeto_Pedidos_OnLine/blob/main/Criacao%20das%20t
 
 https://github.com/benhur1920/Projeto_Pedidos_OnLine/blob/main/Insert%20das%20tabelas.sql
 
-```
-
 ### 🔍 Consultas SQL 
 
 https://github.com/benhur1920/Projeto_Pedidos_OnLine/blob/main/Relatorios.sql
 
-```
+
